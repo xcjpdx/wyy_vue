@@ -15,5 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 地址 
+国外GitHub：https://github.com/xcjpdx/wyy_vue
+、、、
+国内Gitee：https://gitee.com/xcj178655989/wyy_vue
